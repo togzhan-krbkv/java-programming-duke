@@ -1,4 +1,4 @@
-# Module 5: MiniProject — Baby Names
+# Module 5: MiniProject Baby Names
 
 This capstone mini-project for the course ties together file I/O, CSV 
 parsing, and algorithm design skills from the earlier modules. Using US 
