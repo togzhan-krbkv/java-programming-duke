@@ -18,6 +18,18 @@ debugging exercises. The three graded coding assignments are included below.
 
 ## Projects
 
-- [→ strings-first-assignment](./strings-first-assignment) — Finding a Gene in DNA
-- [→ strings-second-assignment](./strings-second-assignment) — Finding All Genes in DNA
-- [→ strings-third-assignment](./strings-third-assignment) — Using StorageResource to store all genes found
+- [→ StringsFirstAssignments](./StringsFirstAssignments) 
+  Given a DNA string, finds the first gene by locating a start codon (ATG) 
+  and the nearest in-frame stop codon (TAA), then extends the approach to 
+  work with arbitrary start/stop codons and to parse links out of a web page.
+
+- [→ StringsSecondAssignments](./StringsSecondAssignments) 
+  Extends the single-gene search to find every gene in a DNA string, 
+  checking all three stop codons (TAA, TGA, TAG) and counting how many 
+  genes and substring matches occur.
+
+- [→ StringsThirdAssignments](./StringsThirdAssignments) 
+  Applies the gene-finding logic to a real DNA dataset, storing all genes 
+  found in a StorageResource and analyzing them: counting CTG occurrences, 
+  computing each gene's C-G ratio, and identifying the longest gene and 
+  genes above a length/ratio threshold.
