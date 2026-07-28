@@ -1,5 +1,5 @@
 /**
- * DepthFilter — a Filter that accepts earthquakes whose depth falls within
+ * DepthFilter is a filter that accepts earthquakes whose depth falls within
  * an inclusive [minDepth, maxDepth] range.
  *
  * @author Togzhan K.
