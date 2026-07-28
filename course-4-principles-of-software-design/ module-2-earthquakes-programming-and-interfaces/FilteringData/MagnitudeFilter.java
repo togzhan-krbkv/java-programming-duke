@@ -1,5 +1,5 @@
 /**
- * MagnitudeFilter — a Filter that accepts earthquakes whose magnitude falls
+ * MagnitudeFilter is a Filter that accepts earthquakes whose magnitude falls
  * within an inclusive [minMagnitude, maxMagnitude] range.
  *
  * @author Togzhan K.
