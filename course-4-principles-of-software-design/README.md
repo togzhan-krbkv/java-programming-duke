@@ -28,7 +28,6 @@ analyzes and sorts earthquake data, and a predictive text generator.
   Earthquakes: Sorting Algorithms
 - [ module-4-ngrams-predictive-text](./module-4-ngrams-predictive-text) — 
   N-Grams: Predictive Text
-- [ module-5-java-tools-and-libraries-for-everyone](./module-5-java-tools-and-libraries-for-everyone) — 
   Java: Tools and Libraries for Everyone
 
 ## Note
