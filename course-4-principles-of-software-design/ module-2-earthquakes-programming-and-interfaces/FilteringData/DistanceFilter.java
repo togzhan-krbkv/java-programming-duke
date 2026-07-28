@@ -1,5 +1,5 @@
 /**
- * DistanceFilter — a Filter that accepts earthquakes within a maximum
+ * a Filter that accepts earthquakes within a maximum
  * distance from a given Location.
  *
  * @author Togzhan K.
