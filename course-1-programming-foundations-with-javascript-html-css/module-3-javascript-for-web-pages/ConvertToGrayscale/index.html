@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Convert to Grayscale</title>
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+    <script src="http://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
+</head>
+<body>
+
+    <h1>Upload and Display Image</h1>
+    <canvas id="can1" class="background"></canvas>
+    <canvas id="can2" class="background"></canvas>
+    <div>
+        <input type="file" accept="image/*" id="finput" onchange="upload()" />
+    </div>
+    <div>
+        <input type="button" value="Convert To Grayscale" onclick="makeGrey()" />
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
