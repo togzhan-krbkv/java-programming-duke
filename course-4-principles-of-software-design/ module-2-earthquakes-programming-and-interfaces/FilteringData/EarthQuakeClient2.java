@@ -1,5 +1,5 @@
 /**
- * EarthQuakeClient2 — filters earthquake data using the Filter interface,
+ * EarthQuakeClient2 filters earthquake data using the Filter interface,
  * including combining multiple filters together with MatchAllFilter.
  *
  * @author Togzhan K.
