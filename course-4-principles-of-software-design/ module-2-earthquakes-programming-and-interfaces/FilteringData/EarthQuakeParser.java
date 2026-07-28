@@ -1,5 +1,5 @@
 /**
- * EarthQuakeParser — parses a USGS earthquake ATOM feed (local file or URL)
+ * EarthQuakeParser parses a USGS earthquake ATOM feed (local file or URL)
  * into a list of QuakeEntry objects.
  *
  * @author Togzhan K.
