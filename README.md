@@ -33,7 +33,7 @@ Skills covered across the specialization include:
 ## Why this repository
 
 I currently work as a data analyst / data engineer, primarily with PySpark, 
-Python, C, C++ and SQL. I'm adding Java to my toolkit because much of the data 
+Python, C++ and SQL. I'm adding Java to my toolkit because much of the data 
 engineering ecosystem is built on the JVM: Spark, Hadoop, and Kafka are 
 written in Java/Scala, and understanding Java makes it easier to write 
 efficient UDFs, debug JVM-level errors and stack traces, and work directly 
